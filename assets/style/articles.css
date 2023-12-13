@@ -1,0 +1,386 @@
+*,html{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-transform: capitalize;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif, Arial, Helvetica;
+  }
+  
+  body {
+    min-height: 100vh;
+  }
+  
+.banner-about{
+    height: 60vh;
+    background-image: url(../images/articles.png);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    opacity: 0.8;
+  }
+  
+  .banner-about .tek-about{
+    text-align: center;
+    color: #fff;
+  }
+  
+  .banner-about .tek-about .judfol-about{
+    font-size: 45px;
+}
+
+/* sec */
+
+body {
+  min-height: 100vh;
+  background-color: #d7d7d7;
+}
+
+.bodhome{
+  color: #fff;
+}
+
+.bodhomer div .ren{
+  display: flex;
+  justify-content: center;
+}
+
+.bodhomer div .bruton{
+  display: flex;
+  justify-content: center;
+}
+
+.bodhomer .crope{
+  display: flex;
+  justify-content: center;
+}
+
+.bodhomer{
+  margin-bottom: 15rem;
+}
+
+.bodhomer p{
+  font-size: 30px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.mage{
+  display: block;
+}
+
+.desmage{
+  position: relative;
+  margin: -166px 0px 0rem 22px;
+}
+
+.desmage div{
+  position: absolute;
+  background-color: #000000a3;
+  border-radius: 0 0 10px 10px;
+  width: 534px;
+  height: 125px;
+  padding-top: 10px;
+}
+
+.mage div div img{
+  width: 577px;
+  height: 485px;
+  margin-right: 61px;
+}
+
+.desmake{
+  position: absolute;
+  margin: -166px 0px 0rem 84px;
+}
+
+.desmake div{
+  position: absolute;
+  background-color: #000000a3;
+  border-radius: 0 0 10px 10px;
+  width: 532px;
+  height: 126px;
+  padding-top: 10px;
+}
+
+.make div div img{
+  width: 577px;
+  height: 485px;
+  margin-left: 61px;
+}
+
+.bruton{
+  margin: -20px 0px 22px 0px;
+}
+
+.buton1{
+  margin-right: 279px;
+}
+
+.buton1 a{
+  color: #fff;
+  font-weight: 600;
+}
+
+.buton2{
+  margin-left: 279px;
+}
+
+.buton2 a{
+  color: #fff;
+  font-weight: 600;
+}
+
+.buton3{
+  padding: 0rem 10rem 0rem 60rem;
+}
+
+.buton3 a{
+  background-color: #FF8947;
+  padding: 10px 30px 10px 30px;
+  color: #fff;
+  font-size: 20px;
+  border-radius: 10px;
+}
+
+.bruton div{
+  text-align: center;
+  border-radius: 10px;
+  display: flex;
+}
+
+.bruton div div{
+  padding: 8px 30px 8px 30px;
+}
+
+.bruton div div div div{
+  background: border-box #FF8947;
+}
+
+.bord div div{
+  display: grid;
+}
+
+.bobo{
+  display: flex;
+  justify-content: center;
+}
+
+.bord{
+  position: relative;
+  width: 70rem;
+  height: 18rem;
+  border: 0px solid #000;
+  display: flex;
+  box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.4);
+}
+
+.bord div div .acti{
+  color: #FF8947;
+  text-shadow: 3px 2px 8px rgba(0, 0, 0, 0.3);
+  font-size: 20px;
+  font-weight: 600;
+  padding: 30px 20px 0px 40px;
+}
+
+.bord div div div h3{
+  color: #000;
+  font-weight: 600;
+  font-size: 25px;
+  padding: 30px 0 18px 39px;
+}
+
+.bord div div div p{
+  color: #6F707E;
+  font-size: 18px;
+  text-align: justify;
+  padding: 0px 200px 25px 40px;
+}
+
+.tigaawal{
+  display: block;
+}
+.crope{
+  display: flex;
+  justify-content: center;
+  padding: 15px;
+  margin: 20px;
+}
+
+.yts{
+  display: grid;
+  width: 70rem;
+  height: 18rem;
+  margin: -1rem 0 3rem 0;
+}
+
+.power2{
+  display: flex;
+  /* background-color: #54b49f; */
+}
+
+.yts div{
+  padding: 8px 10px 4px 8px;
+  border-radius: 10px;
+}
+
+.yts div div div div{
+  display: flex;
+  justify-content: center;
+}
+
+.tet h5{
+  font-size: 30px;
+  margin-bottom: 13px;
+  color: #000000;
+}
+
+.tet p{
+  text-transform: none;
+  font-size: 18px;
+  color: #000000;
+}
+
+.tet a{
+    color: #E12D24;
+  }
+
+.secre2{
+  text-transform: none;
+  font-size: 15px;
+  font-weight: 500;
+  padding-top: 30px;
+}
+
+.statyts{
+  position: absolute;
+  margin: 200px -3rem 0rem 190px;
+  color: #fff;
+  font-size: larger;
+}
+
+.statyts div{
+  position: absolute;
+  background-color: #1C82AD;
+  margin: -257px 2rem 2rem 15rem;
+  border-radius: 10px 0px 0px 0px;
+}
+
+.yts div div div img{
+  width: 23rem;
+  height: auto;
+  background-color: #1C82AD;
+  padding: 10px;
+  margin: -10px -10px 10px -10px;
+  border-radius: 10px 10px 0px 10px;
+}
+
+/* .map{
+    display: grid;
+    width: 70rem;
+    height: 18rem;
+    margin: -1rem 0 3rem 0;
+  }
+
+  .map div{
+    padding: 8px 10px 4px 8px;
+    border-radius: 10px;
+  }
+
+  .power3{
+    background-color: #62B6B7;
+    display: flex;
+  }
+
+  .map div div div div{
+    display: flex;
+    justify-content: center;
+  }
+
+  .tem h5{
+    font-size: 30px;
+    margin-bottom: 13px;
+    color: #fff;
+  }
+
+  .secre{
+    text-transform: none;
+    font-size: 15px;
+    font-weight: 500;
+    padding-top: 50px;
+  }
+
+  .tem a{
+    color: #E12D24;
+  }
+
+  .tem p{
+    text-transform: none;
+    font-size: 18px;
+    color: #fff;
+  }
+
+  .statmap{
+    position: absolute;
+    margin: 200px -3rem 0rem 190px;
+    color: #fff;
+    font-size: larger;
+  }
+
+  .statmap div{
+    position: absolute;
+    background-color: #1C82AD;
+    margin: -257px 2rem 2rem 15rem;
+    border-radius: 10px 0px 0px 0px;
+  }
+
+  .map div div div img{
+    width: 23rem;
+    height: auto;
+    background-color: #1C82AD;
+    padding: 10px;
+    margin: -10px -10px 10px -10px;
+    border-radius: 10px 10px 0px 10px;
+} */
+
+.kol{
+  display: flex;
+}
+
+.crope2{
+  color: #000;
+  font-size: 18px;
+}
+
+.repos p{
+  color: #000;
+  font-size: 18px;
+  text-align: left;
+}
+
+.arci div div{
+  display: flex;
+  align-items: center;
+  padding-right: 20px;
+}
+
+.dar20222 div div{
+  display: flex;
+  align-items: center;
+  padding-right: 20px;
+}
+
+
+/* .arci div div div{
+  display: flex;
+} */
+
+.arci p{
+  color: #000;
+  font-size: 18px;
+  text-align: left;
+}
+
+
+/* end sec */

@@ -1,0 +1,175 @@
+*,html{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-transform: capitalize;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif, Arial, Helvetica;
+  }
+  
+  body {
+    min-height: 100vh;
+    background-color: #d7d7d7;
+  }
+  
+.banner-about{
+    height: 60vh;
+    background-image: url(../images/activism.png);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    opacity: 0.8;
+  }
+  
+  .banner-about .tek-about{
+    text-align: center;
+    color: #ffffff;
+  }
+  
+  .banner-about .tek-about .judfol-about{
+    font-size: 45px;
+}
+
+.bodhomer{
+  display: flex;
+  justify-content: center;
+  padding: 15px;
+  margin: 20px;
+}
+
+.yts{
+    display: grid;
+    width: 70rem;
+    height: 18rem;
+    margin: -1rem 0 3rem 0;
+  }
+
+  .power2{
+    display: flex;
+    background-color: #54b49f;
+  }
+
+  .yts div{
+    padding: 8px 10px 4px 8px;
+    border-radius: 10px;
+  }
+
+  .yts div div div div{
+    display: flex;
+    justify-content: center;
+  }
+
+  .tet h5{
+    font-size: 30px;
+    margin-bottom: 13px;
+    color: #fff;
+  }
+
+  .tet p{
+    text-transform: none;
+    font-size: 18px;
+    color: #fff;
+  }
+
+  .tet a{
+      color: #E12D24;
+    }
+
+  .secre2{
+    text-transform: none;
+    font-size: 15px;
+    font-weight: 500;
+    padding-top: 30px;
+  }
+
+  .statyts{
+    position: absolute;
+    margin: 200px -3rem 0rem 190px;
+    color: #fff;
+    font-size: larger;
+  }
+
+  .statyts div{
+    position: absolute;
+    background-color: #1C82AD;
+    margin: -257px 2rem 2rem 15rem;
+    border-radius: 10px 0px 0px 0px;
+  }
+
+  .yts div div div img{
+    width: 23rem;
+    height: auto;
+    background-color: #1C82AD;
+    padding: 10px;
+    margin: -10px -10px 10px -10px;
+    border-radius: 10px 10px 0px 10px;
+}
+
+.map{
+    display: grid;
+    width: 70rem;
+    height: 18rem;
+    margin: -1rem 0 3rem 0;
+  }
+
+  .map div{
+    padding: 8px 10px 4px 8px;
+    border-radius: 10px;
+  }
+  
+  .power3{
+    background-color: #62B6B7;
+    display: flex;
+  }
+
+  .map div div div div{
+    display: flex;
+    justify-content: center;
+  }
+
+  .tem h5{
+    font-size: 30px;
+    margin-bottom: 13px;
+    color: #fff;
+  }
+
+  .secre{
+    text-transform: none;
+    font-size: 15px;
+    font-weight: 500;
+    padding-top: 50px;
+  }
+
+  .tem a{
+    color: #E12D24;
+  }
+
+  .tem p{
+    text-transform: none;
+    font-size: 18px;
+    color: #fff;
+  }
+
+  .statmap{
+    position: absolute;
+    margin: 200px -3rem 0rem 190px;
+    color: #fff;
+    font-size: larger;
+  }
+
+  .statmap div{
+    position: absolute;
+    background-color: #1C82AD;
+    margin: -257px 2rem 2rem 15rem;
+    border-radius: 10px 0px 0px 0px;
+  }
+
+  .map div div div img{
+    width: 23rem;
+    height: auto;
+    background-color: #1C82AD;
+    padding: 10px;
+    margin: -10px -10px 10px -10px;
+    border-radius: 10px 10px 0px 10px;
+}
